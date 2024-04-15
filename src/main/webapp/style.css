@@ -1,0 +1,24 @@
+body{
+	
+	
+}
+
+.success{
+	background:green;
+	font-color:white;
+}
+.failed,.err{
+	background:red;
+	font-color:white;
+}
+
+form{
+	
+	
+}
+.bg-m-lightgray{
+	
+	background-color: lightgray; 
+	
+	
+}
